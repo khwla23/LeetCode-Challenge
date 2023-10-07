@@ -1,6 +1,6 @@
 class Solution:
     def checkStraightLine(self, coordinates: List[List[int]]) -> bool: #2darray
-        #formula to use --> slope = (y2-y1)/(x2-x1) = y-y1 / x - x1
+        #formula to use --> slope = (y2-y1)/(x2-x1) = (y-y1) / (x - x1)
         #find x1, y1
         x1 = coordinates[0][0]
         y1 = coordinates[0][1]
