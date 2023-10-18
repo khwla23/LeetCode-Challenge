@@ -18,7 +18,7 @@ class Solution:
         #         diff_nums2.append(x)
 
         # #step 2: removing the dupicates from the list
-        # distinct_nums1 = list(set(distinct_nums1)) 
-        # distinct_nums2 = list(set(distinct_nums2))  
+        # distinct_nums1 = list(set(diff_nums1)) 
+        # distinct_nums2 = list(set(diff_nums2))  
 
         # return [distinct_nums1, distinct_nums2]
